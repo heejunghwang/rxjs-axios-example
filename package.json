@@ -1,0 +1,16 @@
+{
+	"name": "rxjs_example",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "npx ts-node test.ts"
+	},
+	"dependencies": {
+		"axios": "0.18.0",
+		"rxjs": "6.6.2"
+	},
+	"devDependencies": {
+		"ts-node": "^5.0.0",
+		"tsc-watch": "^1.0.16",
+		"typescript": "3.9.7"
+	}
+}
